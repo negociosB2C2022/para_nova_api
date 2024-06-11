@@ -1,0 +1,5 @@
+/// DADOS DE ACESSO AO BD - API2024
+    - username: manoapho
+    - password: WMogSEOO1OsdhU23
+    - link para acessar o BD: "mongodb+srv://manoapho:<password>@cluster0.hhgpc0q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+    - link2 para acessar o BD: mongodb+srv://manoapho:<password>@cluster0.hhgpc0q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
